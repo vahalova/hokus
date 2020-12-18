@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hokus/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/hokus/static/js/main.11dc5db4.chunk.js",
+    "main.js.map": "/hokus/static/js/main.11dc5db4.chunk.js.map",
+    "runtime-main.js": "/hokus/static/js/runtime-main.fc113726.js",
+    "runtime-main.js.map": "/hokus/static/js/runtime-main.fc113726.js.map",
+    "static/js/2.c8fa0375.chunk.js": "/hokus/static/js/2.c8fa0375.chunk.js",
+    "static/js/2.c8fa0375.chunk.js.map": "/hokus/static/js/2.c8fa0375.chunk.js.map",
+    "static/js/3.05783d00.chunk.js": "/hokus/static/js/3.05783d00.chunk.js",
+    "static/js/3.05783d00.chunk.js.map": "/hokus/static/js/3.05783d00.chunk.js.map",
+    "index.html": "/hokus/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/hokus/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.c8fa0375.chunk.js.LICENSE.txt": "/hokus/static/js/2.c8fa0375.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hokus/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc113726.js",
+    "static/js/2.c8fa0375.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.11dc5db4.chunk.js"
+  ]
+}
