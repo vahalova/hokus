@@ -1,6 +1,6 @@
 {
   "name": "hokus",
-  "homepage": "http://vahalova.github.io/hokus/",
+  "homepage": "https://vahalova.github.io/hokus/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "hokus -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
