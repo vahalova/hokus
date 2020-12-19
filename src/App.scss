@@ -1,0 +1,16 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+html { -webkit-box-sizing: border-box; box-sizing: border-box; }
+*, :after, :before { -webkit-box-sizing: inherit; box-sizing: inherit; }
+* {
+    outline: none;
+}
+.flex {
+    display: flex
+}
+body {
+    width: 300px;
+    margin: 20px;
+}
